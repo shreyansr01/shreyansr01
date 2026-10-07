@@ -4,7 +4,7 @@ CS graduate building backend systems in **Python (FastAPI)** and **Java (Spring 
 
 - 🛠 **Built & Shipped:** 8 apps (6 deployed)
 - 🏋️ **Execution:** Built a custom PPL workout tracker and lost 30 kg (66 lbs) in 1 year
-- 🌐 **Portfolio:** [shreyandev.vercel.app](https://shreyandev.vercel.app)
+- 🌐 **Portfolio:** [shreyansr.vercel.app](https://shreyansr.vercel.app/)
 
 ---
 
