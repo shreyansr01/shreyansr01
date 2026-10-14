@@ -1,6 +1,6 @@
 # Shreyan Sardar
 
-CS graduate building backend systems in **Python (FastAPI)** and **Java (Spring Boot)**, and using AI agents to ship end-to-end.
+CS graduate building with AI agents, backed by backend foundations in **Python (FastAPI)** and **Java (Spring Boot)**.
 
 - 🛠 **Built & Shipped:** 8 apps (6 deployed)
 - 🏋️ **Execution:** Built a custom PPL workout tracker and lost 30 kg (66 lbs) in 1 year
