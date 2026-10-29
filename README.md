@@ -1,6 +1,6 @@
 # Shreyan Sardar
 
-Software engineer and AI agent manager with a backend foundation in **Python (FastAPI)** and **Java (Spring Boot)**. Directing agents to build and ship software end-to-end.
+Software engineer and AI agent manager with a backend foundation in **Python (FastAPI)** and **Java (Spring Boot)**. Directing agents to build and ship end-to-end.
 
 - 🛠 **Built & Shipped:** 8 apps (6 deployed)
 - 🏋️ **Execution:** Built a custom PPL workout tracker and lost 30 kg (66 lbs) in 1 year
