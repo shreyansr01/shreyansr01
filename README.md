@@ -1,10 +1,10 @@
 # Shreyan Sardar
 
-CS graduate building with AI agents, backed by backend foundations in **Python (FastAPI)** and **Java (Spring Boot)**.
+Software engineer and AI agent manager with a backend foundation in **Python (FastAPI)** and **Java (Spring Boot)**. Directing AI agents to build and ship software end-to-end.
 
 - 🛠 **Built & Shipped:** 8 apps (6 deployed)
 - 🏋️ **Execution:** Built a custom PPL workout tracker and lost 30 kg (66 lbs) in 1 year
-- 🌐 **Portfolio:** [shreyansr.vercel.app](https://shreyansr.vercel.app/)
+- 🌐 **Portfolio:** [shreyansr.vercel.app](https://shreyansr.vercel.app)
 
 ---
 
